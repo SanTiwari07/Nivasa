@@ -1,0 +1,4150 @@
+{
+ "note": "DEMO DATA. Fictional listings for development only. Not real properties; do not contact or rely on them.",
+ "items": [
+  {
+   "id": "demo-001",
+   "name": "2BHK, Raviraj Apartments",
+   "stay_type": "flat",
+   "gender": "girls",
+   "area": "Shivajinagar",
+   "lat": 18.534504,
+   "lng": 73.845135,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 11250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": "No curfew",
+   "guest_policy": null,
+   "available_beds": 5,
+   "amenities": {
+    "ac": true,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": false,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-002",
+   "name": "Green Leaf PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Shivajinagar",
+   "lat": 18.5278,
+   "lng": 73.844177,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 13250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 9750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 26500,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": "11:00 pm",
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": 6,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "study_table": false,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-003",
+   "name": "Nest 21 Co-living",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Shivajinagar",
+   "lat": 18.532888,
+   "lng": 73.842586,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 13250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 13250,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": null,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": false,
+    "gym": false,
+    "ro_water": true
+   },
+   "safety": {
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-004",
+   "name": "Kesar Girls' PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Shivajinagar",
+   "lat": 18.529886,
+   "lng": 73.844184,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 9750,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 2,
+   "amenities": {
+    "ac": false,
+    "laundry": true,
+    "power_backup": true,
+    "cctv": true,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-005",
+   "name": "Vidya Niwas Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Wakdewadi",
+   "lat": 18.540063,
+   "lng": 73.855996,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 14250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 11500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 7000,
+   "notice_period": null,
+   "lock_in": "Academic year",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 6,
+   "amenities": {
+    "ac": true,
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-006",
+   "name": "3BHK, Sukhniwas Society",
+   "stay_type": "flat",
+   "gender": "girls",
+   "area": "Wakdewadi",
+   "lat": 18.538893,
+   "lng": 73.855103,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 12000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 1000,
+   "deposit": null,
+   "notice_period": "1 month",
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "cctv": true,
+    "gym": false,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-007",
+   "name": "Sahyadri Students' Hostel",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Model Colony",
+   "lat": 18.529006,
+   "lng": 73.837918,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 7250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 8000,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "10:00 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 6,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-008",
+   "name": "2BHK, Ganga Heights",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Model Colony",
+   "lat": 18.528672,
+   "lng": 73.837812,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 13750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10750
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "15 days",
+   "lock_in": "3 months",
+   "curfew": "No curfew",
+   "guest_policy": "No overnight guests",
+   "available_beds": null,
+   "amenities": {
+    "wifi": false,
+    "ac": true,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": false,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-009",
+   "name": "Saraswati Girls' Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Deccan Gymkhana",
+   "lat": 18.511624,
+   "lng": 73.84057,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 11500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9250
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 7250,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": "No overnight guests",
+   "available_beds": 0,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true
+   }
+  },
+  {
+   "id": "demo-010",
+   "name": "Orchid Stay PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Deccan Gymkhana",
+   "lat": 18.519221,
+   "lng": 73.839621,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 15500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 13250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 31000,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": "10:00 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": null,
+   "amenities": {
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": false,
+    "hot_water": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-011",
+   "name": "Mutha View Hostel",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Sadashiv Peth",
+   "lat": 18.509669,
+   "lng": 73.847459,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 12500
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Non-veg",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 9750,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-012",
+   "name": "Shree Ganesh Boys' Hostel",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Sadashiv Peth",
+   "lat": 18.509314,
+   "lng": 73.848625,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 6500,
+   "notice_period": "1 month",
+   "lock_in": "Academic year",
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "laundry": true,
+    "power_backup": false,
+    "study_table": true,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-013",
+   "name": "Campus Corner PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Sadashiv Peth",
+   "lat": 18.507016,
+   "lng": 73.84625,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 10000,
+   "notice_period": "15 days",
+   "lock_in": "11 months",
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": true,
+    "power_backup": false,
+    "hot_water": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-014",
+   "name": "Gyan Ganga Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Narayan Peth",
+   "lat": 18.518705,
+   "lng": 73.85288,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 9750,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": "10:30 pm",
+   "guest_policy": null,
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-015",
+   "name": "Tulsi PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Narayan Peth",
+   "lat": 18.511858,
+   "lng": 73.847167,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Non-veg",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 9250,
+   "notice_period": "15 days",
+   "lock_in": "3 months",
+   "curfew": "10:30 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 4,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": false,
+    "housekeeping": true,
+    "cctv": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true
+   }
+  },
+  {
+   "id": "demo-016",
+   "name": "1BHK, Anand Park",
+   "stay_type": "flat",
+   "gender": "girls",
+   "area": "Kasba Peth",
+   "lat": 18.523903,
+   "lng": 73.861491,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 13250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": 26500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-017",
+   "name": "2BHK, Shreeyash Society",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Kasba Peth",
+   "lat": 18.522511,
+   "lng": 73.861018,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": null,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 2,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "study_table": false,
+    "housekeeping": false,
+    "cctv": true,
+    "gym": false,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-018",
+   "name": "Banyan House PG",
+   "stay_type": "pg",
+   "gender": "coed",
+   "area": "Erandwane",
+   "lat": 18.513136,
+   "lng": 73.826246,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 15750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 13500
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Non-veg"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 31500,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": 6,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": false,
+    "housekeeping": true,
+    "cctv": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-019",
+   "name": "3BHK, Pratik Nagar Towers",
+   "stay_type": "flat",
+   "gender": "girls",
+   "area": "Erandwane",
+   "lat": 18.506462,
+   "lng": 73.831199,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 13500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": 27000,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 5,
+   "amenities": {
+    "wifi": false,
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-020",
+   "name": "Mogra Girls' PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Kothrud",
+   "lat": 18.502575,
+   "lng": 73.807884,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 16250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 12750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "10:30 pm",
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-021",
+   "name": "2BHK, Rohini Residency",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Kothrud",
+   "lat": 18.503661,
+   "lng": 73.809615,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 12500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": 25000,
+   "notice_period": "1 month",
+   "lock_in": "3 months",
+   "curfew": "No curfew",
+   "guest_policy": "No overnight guests",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "laundry": true,
+    "power_backup": false,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-022",
+   "name": "Sunrise PG",
+   "stay_type": "pg",
+   "gender": "coed",
+   "area": "Kothrud",
+   "lat": 18.50406,
+   "lng": 73.811592,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 13000
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 9500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 7750
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": "10:30 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "hot_water": true,
+    "study_table": true,
+    "cctv": true,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-023",
+   "name": "Chafa Residency",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Kothrud",
+   "lat": 18.504713,
+   "lng": 73.806135,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 11000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 22000,
+   "notice_period": "1 month",
+   "lock_in": "11 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-024",
+   "name": "Peth Lane PG",
+   "stay_type": "pg",
+   "gender": "coed",
+   "area": "Karve Nagar",
+   "lat": 18.488983,
+   "lng": 73.822388,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 12500
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 9000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": 12500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 4,
+   "amenities": {
+    "wifi": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "cctv": true,
+    "gym": false
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-025",
+   "name": "Bakul Co-living",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Karve Nagar",
+   "lat": 18.489058,
+   "lng": 73.820757,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 11000
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 8000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 900,
+   "deposit": 11000,
+   "notice_period": "15 days",
+   "lock_in": "11 months",
+   "curfew": "11:00 pm",
+   "guest_policy": "No overnight guests",
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-026",
+   "name": "Pinewood PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Karve Nagar",
+   "lat": 18.493174,
+   "lng": 73.822518,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 13750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 10000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 13750,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": "10:00 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": false,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": false
+   }
+  },
+  {
+   "id": "demo-027",
+   "name": "Jaswandi Girls' PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Aundh",
+   "lat": 18.555052,
+   "lng": 73.804105,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 16750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 12250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10000
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 33500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "10:30 pm",
+   "guest_policy": null,
+   "available_beds": 5,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": false,
+    "laundry": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": false
+   },
+   "safety": {
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-028",
+   "name": "Riverbend PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Aundh",
+   "lat": 18.558031,
+   "lng": 73.804653,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 20000,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": "10:30 pm",
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "laundry": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": false,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": false,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-029",
+   "name": "Indrayani Girls' Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Aundh",
+   "lat": 18.555367,
+   "lng": 73.805929,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 17250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 13500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 11500
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Non-veg",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 8250,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": false,
+    "cctv": true,
+    "gym": false,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-030",
+   "name": "Neem Court PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Baner",
+   "lat": 18.557672,
+   "lng": 73.787026,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 12750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "1 month",
+   "lock_in": "11 months",
+   "curfew": "11:00 pm",
+   "guest_policy": "No overnight guests",
+   "available_beds": 6,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": false,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "warden": false
+   }
+  },
+  {
+   "id": "demo-031",
+   "name": "Gulmohar PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Baner",
+   "lat": 18.559736,
+   "lng": 73.785687,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 15000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": 15000,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 0,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "power_backup": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": true,
+    "ro_water": true
+   },
+   "safety": {
+    "cctv": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-032",
+   "name": "Parijat Girls' PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Balewadi",
+   "lat": 18.578327,
+   "lng": 73.776846,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 17750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 13750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 12000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": false,
+   "electricity_estimate": 500,
+   "deposit": 17750,
+   "notice_period": null,
+   "lock_in": "11 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": false,
+    "study_table": true,
+    "housekeeping": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-033",
+   "name": "Saffron Nest PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Balewadi",
+   "lat": 18.576265,
+   "lng": 73.7763,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 19750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 15250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Non-veg"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 19750,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false
+   }
+  },
+  {
+   "id": "demo-034",
+   "name": "3BHK, Kamal Kunj",
+   "stay_type": "flat",
+   "gender": "girls",
+   "area": "Pashan",
+   "lat": 18.538723,
+   "lng": 73.795497,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 11250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8750
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 33750,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "ac": false,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": false,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": false
+   }
+  },
+  {
+   "id": "demo-035",
+   "name": "2BHK, Sai Krupa Society",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Bopodi",
+   "lat": 18.567552,
+   "lng": 73.834024,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 1100,
+   "deposit": 20500,
+   "notice_period": null,
+   "lock_in": "6 months",
+   "curfew": "No curfew",
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": null,
+   "amenities": {
+    "wifi": false,
+    "ac": false,
+    "laundry": false,
+    "power_backup": true,
+    "study_table": false,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-036",
+   "name": "Blue Door PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Khadki",
+   "lat": 18.558768,
+   "lng": 73.852713,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 15500
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 12250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10500
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": false,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": false,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-037",
+   "name": "Deccan Scholars' Home",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Dhankawadi",
+   "lat": 18.459764,
+   "lng": 73.854709,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 5250,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": null,
+   "amenities": {
+    "attached_bathroom": true,
+    "laundry": false,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": false,
+    "gym": false,
+    "ro_water": false,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-038",
+   "name": "Kadamba PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Dhankawadi",
+   "lat": 18.459708,
+   "lng": 73.854127,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 8000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6750
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": 16000,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 6,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-039",
+   "name": "1BHK, Vasant Vihar",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Dhankawadi",
+   "lat": 18.458185,
+   "lng": 73.850375,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 13750
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": null,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "No curfew",
+   "guest_policy": "No overnight guests",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": false,
+    "study_table": true,
+    "housekeeping": false,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true
+   }
+  },
+  {
+   "id": "demo-040",
+   "name": "Shivneri Boys' Hostel",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Katraj",
+   "lat": 18.455112,
+   "lng": 73.857227,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 9750,
+   "notice_period": "1 month",
+   "lock_in": "Academic year",
+   "curfew": null,
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-041",
+   "name": "Godavari Girls' Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Katraj",
+   "lat": 18.455622,
+   "lng": 73.864038,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 5000,
+   "notice_period": "15 days",
+   "lock_in": "Academic year",
+   "curfew": "10:30 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": false,
+    "power_backup": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": true,
+    "ro_water": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-042",
+   "name": "Shevanti PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Bibwewadi",
+   "lat": 18.469766,
+   "lng": 73.868252,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 14250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 11250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 14250,
+   "notice_period": "15 days",
+   "lock_in": "11 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "wifi": true,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-043",
+   "name": "Pawana Hostel",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Bibwewadi",
+   "lat": 18.464598,
+   "lng": 73.868392,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 7500,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "10:00 pm",
+   "guest_policy": null,
+   "available_beds": 2,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": false,
+    "power_backup": false,
+    "hot_water": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true
+   },
+   "safety": {
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-044",
+   "name": "3BHK, Mayur Colony Society",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Narhe",
+   "lat": 18.453732,
+   "lng": 73.828097,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 8250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": 16500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 4,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": true,
+    "hot_water": true,
+    "study_table": true,
+    "cctv": false,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-045",
+   "name": "Amaltas PG",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Narhe",
+   "lat": 18.453881,
+   "lng": 73.824015,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 6500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 5250
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 1000,
+   "deposit": 13000,
+   "notice_period": "15 days",
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-046",
+   "name": "Monsoon House PG",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Vadgaon Budruk",
+   "lat": 18.46397,
+   "lng": 73.834681,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 10500
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 7750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6250
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 21000,
+   "notice_period": "15 days",
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 5,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "hot_water": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-047",
+   "name": "2BHK, Panchavati Apartments",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Vadgaon Budruk",
+   "lat": 18.466665,
+   "lng": 73.835357,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 700,
+   "deposit": 7750,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": true,
+    "study_table": false,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-048",
+   "name": "2BHK, Raviraj Apartments II",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Swargate",
+   "lat": 18.498004,
+   "lng": 73.854408,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8250
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 900,
+   "deposit": 21500,
+   "notice_period": "1 month",
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 0,
+   "amenities": {
+    "ac": true,
+    "attached_bathroom": true,
+    "power_backup": false,
+    "study_table": false,
+    "cctv": false,
+    "gym": true,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-049",
+   "name": "Rajgad Boys' Hostel",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Kondhwa",
+   "lat": 18.467733,
+   "lng": 73.888338,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 8500,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": "No overnight guests",
+   "available_beds": 1,
+   "amenities": {
+    "wifi": false,
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-050",
+   "name": "Green Leaf PG II",
+   "stay_type": "pg",
+   "gender": "boys",
+   "area": "Kondhwa",
+   "lat": 18.467697,
+   "lng": 73.889126,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 14000
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 11000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 9750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": false,
+   "electricity_estimate": 600,
+   "deposit": 28000,
+   "notice_period": "1 month",
+   "lock_in": "11 months",
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": 6,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-051",
+   "name": "Nest 21 Co-living II",
+   "stay_type": "pg",
+   "gender": null,
+   "area": "Camp",
+   "lat": 18.51138,
+   "lng": 73.882952,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 16500
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 13000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 16500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "gym": true,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-052",
+   "name": "3BHK, Sukhniwas Society II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Koregaon Park",
+   "lat": 18.536882,
+   "lng": 73.897672,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 16250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 12500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 700,
+   "deposit": 48750,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 3,
+   "amenities": {
+    "wifi": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-053",
+   "name": "2BHK, Ganga Heights II",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Yerawada",
+   "lat": 18.550237,
+   "lng": 73.887653,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": 18500,
+   "notice_period": null,
+   "lock_in": "6 months",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-054",
+   "name": "Kesar Girls' PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Viman Nagar",
+   "lat": 18.568567,
+   "lng": 73.910141,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 16750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 12250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 33500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "10:00 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "ac": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false
+   },
+   "safety": {
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-055",
+   "name": "1BHK, Anand Park II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Viman Nagar",
+   "lat": 18.567463,
+   "lng": 73.916474,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 24000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 48000,
+   "notice_period": null,
+   "lock_in": "11 months",
+   "curfew": "No curfew",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": true,
+    "cctv": false,
+    "gym": true,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-056",
+   "name": "Orchid Stay PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Kalyani Nagar",
+   "lat": 18.54394,
+   "lng": 73.900106,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 17750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 13000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 700,
+   "deposit": null,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": 1,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "hot_water": true,
+    "cctv": false,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-057",
+   "name": "Kalpataru Students' Home",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Hadapsar",
+   "lat": 18.505945,
+   "lng": 73.927685,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 5250,
+   "notice_period": null,
+   "lock_in": "Academic year",
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": false,
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": false,
+    "hot_water": true,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-058",
+   "name": "Sinhagad View Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Hadapsar",
+   "lat": 18.499389,
+   "lng": 73.923698,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 7250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6000
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 5250,
+   "notice_period": "15 days",
+   "lock_in": "Academic year",
+   "curfew": null,
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-059",
+   "name": "Campus Corner PG II",
+   "stay_type": "pg",
+   "gender": "coed",
+   "area": "Kharadi",
+   "lat": 18.552778,
+   "lng": 73.944214,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 6000,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": false,
+    "laundry": true,
+    "hot_water": true,
+    "study_table": false,
+    "housekeeping": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-060",
+   "name": "2BHK, Shreeyash Society II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Kharadi",
+   "lat": 18.54848,
+   "lng": 73.938446,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": 6750,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": 3,
+   "amenities": {
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "housekeeping": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-061",
+   "name": "3BHK, Pratik Nagar Towers II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Wagholi",
+   "lat": 18.581569,
+   "lng": 73.978638,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 7250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": null,
+   "deposit": 18500,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "wifi": false,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": false,
+    "warden": false
+   }
+  },
+  {
+   "id": "demo-062",
+   "name": "Tulsi PG II",
+   "stay_type": "pg",
+   "gender": null,
+   "area": "Loni Kalbhor",
+   "lat": 18.489704,
+   "lng": 74.017256,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 11500
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 9250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "1 month",
+   "lock_in": "11 months",
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 5,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": false,
+    "power_backup": true,
+    "hot_water": false,
+    "study_table": false,
+    "housekeeping": true,
+    "cctv": true
+   },
+   "safety": {
+    "cctv": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-063",
+   "name": "2BHK, Rohini Residency II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Pimpri",
+   "lat": 18.630106,
+   "lng": 73.797748,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 27000,
+   "notice_period": "15 days",
+   "lock_in": "3 months",
+   "curfew": "No curfew",
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "wifi": false,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": false,
+    "housekeeping": false,
+    "gym": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-064",
+   "name": "Banyan House PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Pimpri",
+   "lat": 18.623888,
+   "lng": 73.80293,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 11000
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 8000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 22000,
+   "notice_period": "1 month",
+   "lock_in": "6 months",
+   "curfew": "10:30 pm",
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 5,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "hot_water": true,
+    "cctv": false,
+    "gym": true,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-065",
+   "name": "Krishna Girls' Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Chinchwad",
+   "lat": 18.639868,
+   "lng": 73.795651,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Non-veg",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 6250,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 0,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": false,
+    "study_table": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true
+   },
+   "safety": {
+    "cctv": true,
+    "warden": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-066",
+   "name": "Purandar Hostel",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Chinchwad",
+   "lat": 18.640121,
+   "lng": 73.793946,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10500
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 7250,
+   "notice_period": "15 days",
+   "lock_in": "Academic year",
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": 0,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": true,
+    "laundry": false,
+    "study_table": true,
+    "housekeeping": true,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-067",
+   "name": "Vidya Niwas Hostel II",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Akurdi",
+   "lat": 18.649095,
+   "lng": 73.766935,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 9000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 7000,
+   "notice_period": null,
+   "lock_in": "Academic year",
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "wifi": false,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "study_table": true,
+    "housekeeping": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-068",
+   "name": "3BHK, Kamal Kunj II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Akurdi",
+   "lat": 18.652204,
+   "lng": 73.76891,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 8500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 1100,
+   "deposit": 17000,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 1,
+   "amenities": {
+    "wifi": false,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": true,
+    "gym": false
+   },
+   "safety": {
+    "security_guard": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-069",
+   "name": "Sahyadri Students' Hostel II",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Akurdi",
+   "lat": 18.651118,
+   "lng": 73.765841,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 7250,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": "10:30 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": true,
+    "hot_water": false,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-070",
+   "name": "Mogra Girls' PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Nigdi",
+   "lat": 18.648337,
+   "lng": 73.770824,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 13250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 10500
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 13250,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "10:30 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "laundry": true,
+    "power_backup": false,
+    "hot_water": true,
+    "study_table": true,
+    "cctv": true,
+    "ro_water": true
+   },
+   "safety": {
+    "security_guard": true,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-071",
+   "name": "Sunrise PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Nigdi",
+   "lat": 18.650276,
+   "lng": 73.770642,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 6500,
+   "notice_period": null,
+   "lock_in": "3 months",
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": 4,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "cctv": false,
+    "gym": false,
+    "ro_water": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-072",
+   "name": "Chafa Residency II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Wakad",
+   "lat": 18.598223,
+   "lng": 73.76614,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 18250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 14250
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast, lunch & dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian",
+    "Breakfast"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 18250,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "No overnight guests",
+   "available_beds": 4,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": true,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": false,
+    "warden": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-073",
+   "name": "Peth Lane PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Wakad",
+   "lat": 18.594594,
+   "lng": 73.76612,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 12250
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 9000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 7500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": "Parents only, in the lobby",
+   "available_beds": 2,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "attached_bathroom": true,
+    "laundry": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": false
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-074",
+   "name": "2BHK, Sai Krupa Society II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Hinjewadi",
+   "lat": 18.591547,
+   "lng": 73.734571,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8250
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 900,
+   "deposit": 21500,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "No curfew",
+   "guest_policy": null,
+   "available_beds": 6,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": false,
+    "power_backup": false,
+    "hot_water": false,
+    "study_table": false,
+    "cctv": true,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "warden": false,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-075",
+   "name": "Saraswati Girls' Hostel II",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Hinjewadi",
+   "lat": 18.59003,
+   "lng": 73.736713,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 15500
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 12500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10750
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "South Indian",
+    "Non-veg"
+   ],
+   "kitchen_pure_veg": false,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 9750,
+   "notice_period": null,
+   "lock_in": "Academic year",
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "ac": false,
+    "attached_bathroom": false,
+    "laundry": true,
+    "hot_water": true,
+    "study_table": true,
+    "cctv": true,
+    "gym": true,
+    "ro_water": true
+   },
+   "safety": {
+    "warden": false
+   }
+  },
+  {
+   "id": "demo-076",
+   "name": "Bakul Co-living II",
+   "stay_type": "pg",
+   "gender": null,
+   "area": "Tathawade",
+   "lat": 18.61262,
+   "lng": 73.74531,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 12750
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": 9500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": "15 days",
+   "lock_in": "3 months",
+   "curfew": "10:30 pm",
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "ac": true,
+    "attached_bathroom": true,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "housekeeping": true,
+    "gym": true,
+    "ro_water": true
+   },
+   "safety": {
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-077",
+   "name": "1BHK, Vasant Vihar II",
+   "stay_type": "flat",
+   "gender": "coed",
+   "area": "Tathawade",
+   "lat": 18.612868,
+   "lng": 73.746676,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": 14500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": null,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": "No curfew",
+   "guest_policy": null,
+   "available_beds": 1,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": false,
+    "power_backup": false,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-078",
+   "name": "Pinewood PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Bhosari",
+   "lat": 18.632776,
+   "lng": 73.845672,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 11500
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 10000
+    }
+   ],
+   "food_included": true,
+   "meals": "Breakfast + dinner",
+   "kitchen_cuisines": [
+    "Maharashtrian",
+    "North Indian"
+   ],
+   "kitchen_pure_veg": true,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": null,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "ac": true,
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "security_guard": true,
+    "lit_access_road": true
+   }
+  },
+  {
+   "id": "demo-079",
+   "name": "3BHK, Mayur Colony Society II",
+   "stay_type": "flat",
+   "gender": "boys",
+   "area": "Dighi",
+   "lat": 18.608869,
+   "lng": 73.869266,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 7750
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6000
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 600,
+   "deposit": 15500,
+   "notice_period": "15 days",
+   "lock_in": "6 months",
+   "curfew": null,
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 1,
+   "amenities": {
+    "wifi": true,
+    "laundry": false,
+    "power_backup": true,
+    "hot_water": true,
+    "study_table": false,
+    "housekeeping": true,
+    "cctv": true,
+    "ro_water": false
+   },
+   "safety": {
+    "cctv": true,
+    "warden": false,
+    "lit_access_road": false
+   }
+  },
+  {
+   "id": "demo-080",
+   "name": "Jaswandi Girls' PG II",
+   "stay_type": "pg",
+   "gender": "girls",
+   "area": "Lavale",
+   "lat": 18.544906,
+   "lng": 73.732374,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 10000
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 8250
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 500,
+   "deposit": 10000,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": "11:00 pm",
+   "guest_policy": null,
+   "available_beds": 0,
+   "amenities": {
+    "ac": true,
+    "attached_bathroom": true,
+    "power_backup": true,
+    "study_table": true,
+    "housekeeping": false,
+    "cctv": true,
+    "gym": false,
+    "ro_water": true,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": true,
+    "warden": false
+   }
+  },
+  {
+   "id": "demo-081",
+   "name": "2BHK, Panchavati Apartments II",
+   "stay_type": "flat",
+   "gender": null,
+   "area": "Lavale",
+   "lat": 18.541613,
+   "lng": 73.733444,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": false,
+   "electricity_estimate": 800,
+   "deposit": 8750,
+   "notice_period": null,
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": null,
+   "available_beds": null,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": false,
+    "power_backup": false,
+    "hot_water": true,
+    "housekeeping": false,
+    "cctv": false,
+    "gym": false,
+    "two_wheeler_parking": true
+   },
+   "safety": {
+    "cctv": false,
+    "security_guard": true,
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-082",
+   "name": "Mutha View Hostel II",
+   "stay_type": "hostel",
+   "gender": "girls",
+   "area": "Bavdhan",
+   "lat": 18.514746,
+   "lng": 73.778818,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "double",
+     "monthly_rent": 8250
+    },
+    {
+     "sharing": "triple",
+     "monthly_rent": 6500
+    }
+   ],
+   "food_included": false,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": null,
+   "electricity_estimate": null,
+   "deposit": 7750,
+   "notice_period": "1 month",
+   "lock_in": null,
+   "curfew": "10:00 pm",
+   "guest_policy": "No overnight guests",
+   "available_beds": 5,
+   "amenities": {
+    "wifi": true,
+    "ac": false,
+    "laundry": false,
+    "hot_water": false,
+    "study_table": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false
+   },
+   "safety": {
+    "warden": true
+   }
+  },
+  {
+   "id": "demo-083",
+   "name": "Shree Ganesh Boys' Hostel II",
+   "stay_type": "hostel",
+   "gender": "boys",
+   "area": "Alandi",
+   "lat": 18.674245,
+   "lng": 73.89962,
+   "location_precision": "approximate",
+   "description": "Demo listing generated for development. This is not a real property.",
+   "rooms": [
+    {
+     "sharing": "single",
+     "monthly_rent": null
+    },
+    {
+     "sharing": "double",
+     "monthly_rent": null
+    }
+   ],
+   "food_included": null,
+   "meals": null,
+   "kitchen_cuisines": null,
+   "kitchen_pure_veg": null,
+   "electricity_included": true,
+   "electricity_estimate": null,
+   "deposit": 5750,
+   "notice_period": "15 days",
+   "lock_in": null,
+   "curfew": null,
+   "guest_policy": "Day visitors until 8 pm",
+   "available_beds": 3,
+   "amenities": {
+    "wifi": true,
+    "attached_bathroom": false,
+    "laundry": true,
+    "power_backup": true,
+    "housekeeping": true,
+    "cctv": true,
+    "gym": false,
+    "ro_water": false
+   },
+   "safety": {
+    "cctv": true,
+    "security_guard": false,
+    "lit_access_road": true
+   }
+  }
+ ]
+}
