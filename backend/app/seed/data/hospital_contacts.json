@@ -1,0 +1,146 @@
+{
+  "source": "Researched by hand on 2026-10-18. 'official' entries were read from the hospital's own website; 'directory' entries agree across several public directories but were not on an official page. Applied on top of the OpenStreetMap snapshot by OSM id.",
+  "checked_on": "2026-10-18",
+  "items": [
+    {
+      "name": "Ruby Hall Clinic, Sassoon Road",
+      "osm": ["n10172977877", "n13650019585", "n9296005824"],
+      "phone": "+91 20 6645 5100",
+      "emergency_phone": "+91 70577 00700",
+      "email": "info@rubyhall.com",
+      "website": "https://www.rubyhall.com",
+      "address": "40 Sassoon Road, Pune 411001",
+      "verified": "official",
+      "source_url": "https://www.rubyhall.com/contact-us"
+    },
+    {
+      "name": "Ruby Hall Clinic, Wanowrie",
+      "osm": ["n7048167595", "w224969009"],
+      "phone": "+91 20 6649 4949",
+      "emergency_phone": "+91 20 6649 4980",
+      "email": "wanowrie@rubyhall.com",
+      "website": "https://wanowrie.rubyhall.com",
+      "address": "Wanowrie, Pune 411040",
+      "verified": "official",
+      "source_url": "https://www.rubyhall.com/contact-us"
+    },
+    {
+      "name": "Ruby Hall Clinic, Hinjawadi",
+      "osm": ["w1410509613"],
+      "phone": "+91 20 6699 9999",
+      "emergency_phone": "+91 20 6699 9930",
+      "email": "info@rubyhall.com",
+      "website": "https://www.rubyhall.com",
+      "address": "Hinjawadi, Pune 411057",
+      "verified": "official",
+      "source_url": "https://www.rubyhall.com/contact-us"
+    },
+    {
+      "name": "Jehangir Hospital",
+      "osm": ["w331500153"],
+      "phone": "+91 20 6681 9966",
+      "emergency_phone": "+91 88888 81066",
+      "email": "info@jehangirhospital.com",
+      "website": "https://www.jehangirhospital.com",
+      "address": "32 Sassoon Road, opposite Pune railway station, Pune 411001",
+      "verified": "official",
+      "source_url": "https://www.jehangirhospital.com/contact-us"
+    },
+    {
+      "name": "Deenanath Mangeshkar Hospital",
+      "osm": ["w207872391"],
+      "phone": "+91 20 4015 1000",
+      "emergency_phone": "+91 20 4015 1024",
+      "email": "info@dmhospital.org",
+      "website": "https://www.dmhospital.org",
+      "address": "Near Mhatre Bridge, Erandwane, Pune 411004",
+      "verified": "official",
+      "source_url": "https://www.dmhospital.org/contact-us"
+    },
+    {
+      "name": "KEM Hospital",
+      "osm": ["n7651453413", "w215075307"],
+      "phone": "+91 20 2621 7300",
+      "email": "info@kemhospital.org",
+      "website": "https://www.kemhospitalpune.org",
+      "address": "489 Rasta Peth, Sardar Moodliar Road, Pune 411011",
+      "verified": "official",
+      "source_url": "https://www.kemhospitalpune.org"
+    },
+    {
+      "name": "Aditya Birla Memorial Hospital",
+      "osm": ["w1123804654"],
+      "phone": "+91 98811 23006",
+      "emergency_phone": "+91 20 3071 7777",
+      "website": "https://www.adityabirlahospital.com",
+      "address": "Aditya Birla Hospital Marg, Thergaon, Chinchwad, Pune 411033",
+      "verified": "official",
+      "source_url": "https://www.adityabirlahospital.com/contact-us"
+    },
+    {
+      "name": "Poona Hospital and Research Centre",
+      "osm": ["n10172986709", "w217773616"],
+      "phone": "+91 97305 59600",
+      "emergency_phone": "+91 20 6609 6000",
+      "email": "phrcjr@gmail.com",
+      "website": "https://www.poonahospital.org",
+      "verified": "official",
+      "source_url": "https://www.poonahospital.org/contact-us"
+    },
+    {
+      "name": "Manipal Hospital, Baner",
+      "osm": ["n10010729790"],
+      "phone": "+91 20 6813 8888",
+      "email": "info@manipalhospitals.com",
+      "website": "https://www.manipalhospitals.com/baner/",
+      "address": "Baner-Mhalunge Main Road, Baner, Pune 411045",
+      "verified": "official",
+      "source_url": "https://www.manipalhospitals.com/baner/contact-us/"
+    },
+    {
+      "name": "Manipal Hospital, Kharadi",
+      "osm": ["n7649461823"],
+      "phone": "1800 210 9888",
+      "email": "info@manipalhospitals.com",
+      "website": "https://www.manipalhospitals.com",
+      "verified": "official",
+      "source_url": "https://www.manipalhospitals.com/baner/contact-us/"
+    },
+    {
+      "name": "Jupiter Hospital, Baner",
+      "osm": ["w652021497", "w1410820103"],
+      "phone": "+91 20 2799 2799",
+      "email": "enquiry.pune@jupiterhospital.com",
+      "website": "https://www.jupiterhospital.com/pune/",
+      "address": "Near Prathamesh Park, Baner-Pimple Nilakh Road, Baner, Pune 411045",
+      "verified": "official",
+      "source_url": "https://www.jupiterhospital.com/pune/"
+    },
+    {
+      "name": "Sassoon General Hospital (B.J. Government Medical College)",
+      "osm": ["n772571829", "n7068194960"],
+      "phone": "+91 20 2612 8000",
+      "website": "https://www.bjgmcpune.org",
+      "address": "Near Pune railway station, Agarkar Nagar, Pune 411001",
+      "verified": "directory",
+      "source_url": "https://housing.com/news/all-about-sassoon-hospital-in-pune/"
+    },
+    {
+      "name": "Sahyadri Hospitals",
+      "osm": ["w218422372", "n1109153493", "n7043399086", "n7053694039", "n4154605789", "n10172914042", "n7213421048"],
+      "phone": "+91 88888 22222",
+      "website": "https://www.sahyadrihospital.com",
+      "verified": "directory",
+      "note": "Group helpline for ambulance and appointments across Sahyadri branches.",
+      "source_url": "https://www.indiacustomercare.com/node/18222"
+    },
+    {
+      "name": "Noble Hospital, Hadapsar",
+      "osm": ["w218859884", "n7649461774"],
+      "phone": "+91 80070 06611",
+      "address": "153 Magarpatta City Road, Hadapsar, Pune 411013",
+      "verified": "directory",
+      "source_url": "https://www.bajajfinservhealth.in/hospitals/pune/noble-hospital-hadapsar"
+    }
+  ]
+}
